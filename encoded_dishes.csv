@@ -1,0 +1,161 @@
+restaurant_id,dish_name,continental_region_,specific_cuisine_,dish_type_,dish_type_Appetizer,dish_type_Dessert,dish_type_Drink,dish_type_Main Course,dish_type_Salad,dish_type_Side Dish,dish_type_Snack,dish_type_Soup,dish_variants_normal,Afternoon Snack,Anytime,Appetizer,Breakfast,Brunch,Dessert,Dinner,Drink,Lunch,Main Course,Side Dish,Snack,Starter
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Paneer Cheese Masla,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Butter Chicken,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Mojito,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Meggie,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Tandoori Chicken,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Stuffer Special Chole Kulche,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Water,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Dosa,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Manchurian,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Bhaji Pulao,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Parle Cake,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Giant Chocalate Icecream,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Apple Saute,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Pineapple Saute,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Grapes Saute,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Rasberry Saute,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Blueberry Saute,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Kunafa Chocolate,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Kunafa Chocolate Brownie,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Apricot Soup,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Chickoo Soup,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Paneer Hariyali Kabab,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Harabhara Chickoo Kabab,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Nutella Shake,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Grapes Shake,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Sushi,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Watermelon Saute,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Watermelon Salad,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Chocolate Vanilla Choco Chips,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Jini Roll Dhosa,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Chickoo Coffee,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Ramen,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Aloo Masala With Paneer Cheese,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Paneer Lababdar With Butter,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Paneer Momos,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Chocolate Waffles,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Chickoo Pyaaza,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Aloo Matar Masala,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Alfredo,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Alfredo Pasta,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Alfredo Pasta With Cheese,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Alfredo Pasta With Mashrum,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Alfredo Souce,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Paneer Cheese Pakoda,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+restro_Stuffer_395002_50164a1e-f7cc-48c8-8641-8a9f0a363809,Soup,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Espresso,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Americano,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cortado,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Flat White,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cappuccino,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Latte,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Matcha,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Classic Frappe,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Iced Espresso,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Iced Americano,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Iced Cortado,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Iced Cappuccino,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Iced Latte,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Vietnamese,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cold Brew,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cold Brew Tonic,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Barrel Aged Cold Brew,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cold Brew Tonic(Rum/whiskey),1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Espresso Tonic,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Nutella,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Chocolate,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Berries,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Biscoff,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Coconut Cloud,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Berrylicious Espresso Spritz,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Tropical Matcha Paradise,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Frosty Sea Brew,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Classic Mint Mojito,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Coconut Citrus Cloud,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Eastern Candy Crush,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,The Cucumber Zephyr,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,"Pour Over (V60,Origami)",1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Aero Press,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,French Press,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Butter Croissant,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Korean Cream Cheese Croissant,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Creamy Mushroom Danish,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Pesto Danish,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Pesto Sandwich,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,The Veggie Hummus Sando,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Caesar Salad,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Focaccia Sandwich,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Hipster Toast,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Nachos Grande,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Arabita Pasta,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cold Salad,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Pesto Pasta,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Truffle Alfredo Mushroom Pasta,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Very Berry Danish,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Pancakes,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Brownie,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Water Bottle,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cafe Bombon,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cold Brew,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Spanish Latte,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cheese Cake,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cafe Ice Bombon,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Spanish Ice Latte,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Iced Mocha,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Cafe Mocha,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Hot Chocolate,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+restro_ELKespresso_395007_fb43ccca-fc7c-46a2-8e7e-912cbf4c6114,Berries Smoothie,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Tempura Veggie Roll,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Jalepeno Tempura Roll,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Spicy Shitake Sushi,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Corn Cheese Cheddar Melt,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Crispy Chicken Maki,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chicken Tempura Roll,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,California Roll,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Salmon Roll,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Miso Ramen - Veg,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Miso Ramen - Chicken,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Miso Ramen - Prawns,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Hot Korean Ramen- Veg,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Hot Korean Ramen- Prawns,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Cocozen Ramen- Veg,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Cocozen Ramen - Chicken,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Cocozen Ramen - Prawns,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Manchurian,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Manchurian Gravy,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Paneer Chilly,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Paneer Chilly-Gravy,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Honey Chilli Lotus Stem,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Honey Chilli Potato,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Veg Spring Rolls,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Butter Garlic Mushroom,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chilly Chicken,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Butter Garlic Chicken,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Dynamite Chicken,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Dynamite Prawans,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Veg Fried Rice,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Burnt Garlic Rice,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Spicy Schezwan Rice,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chicken Fried Rice,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chicken Burnt Garlic Rice,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chicken Schezwan Rice,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Hakka Noodles,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chilli Garlic Noodles,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Dan Dan Noodles,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chicken Hakka Noodles,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chickenchilli Garlic Noodles,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Chicken Dan Dan Noodles,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Kastu Curry- Veg,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Kastu Curry- Chicken,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Kastu Curry- Prawns,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Massaman,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Brownie Nutella,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Brownie Biscoff,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Tart Chocolate,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Tart Strawberry,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Jasmine Rice,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Basmati Rice,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Hot Garlic Sauce,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Thai Curry,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+restro_PAKPAKCHOW_395007_5aa409be-83f2-4bdf-b744-7f9e214e1871,Hot Korean Ramen- Chicken,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
