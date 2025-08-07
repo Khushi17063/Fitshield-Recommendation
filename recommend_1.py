@@ -233,6 +233,28 @@ if searched_dish and searched_dish in dish_names:
         "timestamp": str(datetime.now()), "action": "searched", "dish": searched_dish, "user_id": selected_user_id
     })
 
+# Expanded dish interaction options
+for dish in dish_names:
+    with st.expander(f"🍽️ {dish}"):
+        col1, col2, col3, col4 = st.columns(4)
+        if col1.button(f"🛒 Add to Cart - {dish}"):
+            st.session_state.actions.append({
+                "timestamp": str(datetime.now()), "action": "add_to_cart", "dish": dish, "user_id": selected_user_id
+            })
+        if col2.button(f"👁️ Viewed - {dish}"):
+            st.session_state.actions.append({
+                "timestamp": str(datetime.now()), "action": "viewed", "dish": dish, "user_id": selected_user_id
+            })
+
+        if col3.button(f"📥 Downloaded - {dish}"):
+            st.session_state.actions.append({
+                "timestamp": str(datetime.now()), "action": "download", "dish": dish, "user_id": selected_user_id
+            })
+            
+        if col4.button(f"✅ Ordered - {dish}"):
+            st.session_state.actions.append({
+                "timestamp": str(datetime.now()), "action": "ordered", "dish": dish, "user_id": selected_user_id
+            })
 
 # --------------------- BUILD USER VECTOR ---------------------
 def get_user_vector(actions):
@@ -307,3 +329,12 @@ if st.button("🔍 Recommend Dishes"):
     st.subheader("📊 Final Ranked Recommendations")
     st.json(final_results_json)  # Display as JSON
 
+# --------------------- EXPORT LOG ---------------------
+st.subheader("📅 Export Action Log")
+if st.button("⬇️ Export as JSON"):
+    with open("user_action_log.json", "w") as f:
+        json.dump(st.session_state.actions, f, indent=2)
+    st.success("Exported to user_action_log.json")
+
+if st.checkbox("📋 Show Interaction Log"):
+    st.json(st.session_state.actions)
