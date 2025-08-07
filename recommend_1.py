@@ -294,9 +294,9 @@ if st.button("🔍 Recommend Dishes"):
         # Append results with nutrients, timing category, and distributed percentage
         results.append({
             "dish_name": name,
+            "final_score": round(final_score, 2),
             "base_score": round(base_score, 2),
             "cosine_score": round(cosine_score, 3),
-            "final_score": round(final_score, 2),
             "nutrients": dish_nutrients,  # Nutrients included here
             "timing_category": dish.get("timing_category", "Not specified"),  # Extract timing category if present
             "distributed_percentage": dish.get("distributed_percentage", {})  # Extract distributed percentage
@@ -306,3 +306,4 @@ if st.button("🔍 Recommend Dishes"):
     final_results_json = json.dumps(results, indent=2)
     st.subheader("📊 Final Ranked Recommendations")
     st.json(final_results_json)  # Display as JSON
+
